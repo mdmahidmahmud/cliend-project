@@ -1,0 +1,63 @@
+@font-face{
+  font-family: 'DIN NEXT LT W23';
+  src: url('../Fonts/DIN NEXT LT W23 REGULAR.OTF');
+}
+@font-face{
+  font-family: 'DIN NEXT LT W23';
+  src: url('../Fonts/DIN NEXT LT W23 MEDIUM.OTF');
+}
+body{
+    font-family: 'DIN NEXT LT W23';
+}
+.header-contant{
+    text-align: right;
+}
+.header-contant ul{
+    list-style: none;
+}
+.header-contant ul li a {
+    text-decoration: none;
+    color: #000;
+    font-size: 16px;
+    line-height: 35px;
+    display: block;
+}
+.heading2-top {
+    background: #F2F1EA;
+}
+.heading2-top h2 {
+    padding: 15px 0px;
+    font-size: 23px;
+    color: #191954;
+}
+.heading1-top h2 {
+    padding: 15px 0px;
+    font-size: 23px;
+    color: #191954;
+}
+.heading1-top {
+    background: #C4C5C4;
+}
+.header-contant {
+    padding: 14px 0px 70px 0px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

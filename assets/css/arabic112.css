@@ -1,0 +1,115 @@
+@font-face{
+  font-family: 'DIN NEXT LT W23';
+  src: url('../Fonts/DIN NEXT LT W23 REGULAR.OTF');
+}
+@font-face{
+  font-family: 'DIN NEXT LT W23';
+  src: url('../Fonts/DIN NEXT LT W23 MEDIUM.OTF');
+}
+body{
+    font-family: 'DIN NEXT LT W23';
+    margin: 0;
+    padding: 0;
+}
+
+
+
+.post-area-main label {
+    display: block;
+    text-align: right;
+}
+.heading-top1 {
+    background: #C4C5C4;
+    margin-bottom: 35px;
+}
+.heading-top1 h2 {
+    padding: 17px 0px;
+    font-size: 24px;
+    color: #191745;
+    font-weight: 600;
+
+}
+.main-form {
+    margin-right: 67px;
+    text-align: right;
+}
+.main-form input {
+    width: 50%;
+}
+.main-form textarea {
+    width: 100%;
+}
+.main-form input:focus{
+    outline: none;
+}
+.main-form label {
+    margin-bottom: 8px;
+    margin-top: 10px;
+}
+.main-form placeholder {
+    font-size: 10px;
+}
+input#post1 {
+    font-size: 14px;
+    padding: 9px;
+}
+input#number {
+    font-size: 14px;
+    padding: 9px;
+}
+input#email {
+    font-size: 14px;
+    padding: 9px;
+}
+input#text {
+    font-size: 14px;
+    padding: 9px;
+}
+.main-form textarea {
+    width: 100%;
+    height: 170px;
+    margin-top: 17px;
+    border: 1px solid #000;
+    font-size: 15px;
+    padding: 12px;
+}
+.main-form textarea:focus {
+    outline: none;
+}
+.main-form input {
+    border: 1px solid #000;
+}
+
+.main-form label {
+    font-size: 18px;
+}
+
+.main1 {
+    width: auto !important;
+    margin-bottom: 7px;
+}
+.main-form button {
+    padding: 5px 13px;
+    margin-bottom: 43px;
+    background: #191745;
+    color: #fff;
+    border: none;
+}
+.main-form button:focus {
+    outline: none;
+}
+.main2 {
+    height: 58px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
